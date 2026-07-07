@@ -1,1 +1,1 @@
-# credit_wise_loan_system
+# Binary Classification Model for Credit Risk Assessment.
